@@ -5,6 +5,7 @@ import Grid from "./components/Grid/Grid";
 import Text from "./components/Text/Text";
 import Image from "./components/Image/Image";
 import List from "./components/List/List";
+
 import "./App.scss";
 
 // props:

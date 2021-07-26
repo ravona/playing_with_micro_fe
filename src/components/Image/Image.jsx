@@ -14,7 +14,6 @@ const Image = () => {
       }
       console.log(res);
       setImage(res);
-      return;
     });
   }, []);
 
