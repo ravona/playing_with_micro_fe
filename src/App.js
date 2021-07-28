@@ -19,7 +19,7 @@ const list = [
 
 function App() {
   return (
-    <div className="App">
+    <div id="app-shell" className="App">
       <Grid />
       <Text />
       <Image />

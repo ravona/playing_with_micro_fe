@@ -12,6 +12,7 @@
     "react-scripts": "4.0.3",
     "sass": "^1.36.0",
     "serve": "^12.0.0",
+    "single-spa": "^5.9.3",
     "web-vitals": "^0.2.4",
     "workbox-background-sync": "^5.1.3",
     "workbox-broadcast-update": "^5.1.3",
